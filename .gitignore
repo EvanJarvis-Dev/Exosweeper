@@ -1,15 +1,53 @@
 # Build artifacts
-out/
-*.o
+/build/
+*/build/
+dist/*.exe
+dist/*.dll
+dist/*.pdb
 *.exe
-*.wasm
-*.js
-*.data
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.dll
+*.out
 
-# OS
-.DS_Store
-Thumbs.db
+# Backup and temp files
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
 
-# IDE
+# IDE / Editor files
 .vscode/
 .idea/
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Emscripten / Web build output
+*.html
+*.js
+*.wasm
+
+# Raylib build outputs
+raylib/src/*.o
+raylib/src/*.a
+raylib/src/*.exe
+
+# Python virtual environments (if used later)
+.venv/
+env/
+
+# Cache / Misc
+.cache/
+*.swp
+*.zip

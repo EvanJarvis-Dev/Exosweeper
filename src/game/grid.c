@@ -100,6 +100,7 @@ void PopulateGrid(GlobalSettings globalSettings, GridInstance gridInstance, Imag
             tempSquare.isRevealed = false;
             tempSquare.isFlagged = false;
             tempSquare.amountOfNeighbours = 0;
+            tempSquare.isFrozen = false;
 
             tempSquare.randomGrassIndex = rand() % p_images -> grassCount;
             tempSquare.randomOreIndex = rand() % p_images -> oreCount;
@@ -172,6 +173,8 @@ void FreeGrid(GridInstance *p_gridInstance)
     FreeTimer((*p_gridInstance).timer);
     free(p_gridInstance -> p_cryoCharges);
 }
+
+
 
 bool IsValidPosition(GridData gridData, Vector2 position)
 {

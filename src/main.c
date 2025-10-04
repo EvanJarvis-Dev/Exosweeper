@@ -35,7 +35,9 @@ void CleanUp(GlobalSettings *p_settings, GridInstance *p_gridInstance, Audio *p_
 int main(void) 
 {
     GlobalSettings globalSettings = CreateGlobalSettings();
-    GridInstance *p_gridInstance = malloc(sizeof(GridInstance));
+    
+    // GridInstance *p_gridInstance = malloc(sizeof(GridInstance));
+    GridInstance *p_gridInstance = calloc(1, sizeof(GridInstance));
 
     Menu menu = InitialiseMenus(&globalSettings);
     
