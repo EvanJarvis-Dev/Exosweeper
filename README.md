@@ -40,7 +40,7 @@ Collecting all of the ore on the map wins the game and revealing lava, causes a 
 
 ## Built With
 - ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-- ![raylib](https://img.shields.io/badge/raylib-FAED27?logoColor=black)
+- ![raylib](https://img.shields.io/badge/raylib-000000?logo=raylib&logoColor=white)
 
 ## Credits
 - Game design and programming by Evan Jarvis
@@ -48,3 +48,4 @@ Collecting all of the ore on the map wins the game and revealing lava, causes a 
 - The menu track was used from [here](https://opengameart.org/content/har%C3%A1n)
 - The game track was used from [here](https://opengameart.org/content/continue)
 - The sound effects were used from [here](https://opengameart.org/content/512-sound-effects-8-bit-style)
+
