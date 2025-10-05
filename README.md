@@ -3,7 +3,7 @@
 
 A small minesweeper game built in 2025 as part of university coursework containing 3 different sizes of grid.
 
-![Gameplay Demo](src/resources/ExosweeperGameplay.gif)
+![Gameplay Demo](resources/ExosweeperGameplay.gif)
 
 Exosweeper is a space-themed minesweeper game where you use the mouse to mark and avoid lava (mines) and harvest ore (non-mines).
 Collecting all of the ore on the map wins the game and revealing lava, causes a loss.
@@ -48,4 +48,5 @@ Collecting all of the ore on the map wins the game and revealing lava, causes a 
 - The menu track was used from [here](https://opengameart.org/content/har%C3%A1n)
 - The game track was used from [here](https://opengameart.org/content/continue)
 - The sound effects were used from [here](https://opengameart.org/content/512-sound-effects-8-bit-style)
+
 
