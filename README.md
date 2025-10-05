@@ -45,9 +45,10 @@ Collecting all of the ore on the map wins the game and revealing lava, causes a 
 ## Credits
 - **Game design & programming:** Evan Jarvis  
 - **Pixel art:** Evan Jarvis  
-- **Menu music:** [Harán](https://opengameart.org/content/har%C3%A1n) (OpenGameArt)  
-- **Gameplay music:** [Continue](https://opengameart.org/content/continue) (OpenGameArt)  
+- **Menu music:** [Harán](https://opengameart.org/content/har%C3%A1n)
+- **Gameplay music:** [Continue](https://opengameart.org/content/continue)
 - **Sound effects:** [8-bit Sound Effects Pack](https://opengameart.org/content/512-sound-effects-8-bit-style)
+
 
 
 
