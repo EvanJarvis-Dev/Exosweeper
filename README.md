@@ -1,7 +1,7 @@
 # Exosweeper
 *A minesweeper clone built with C and raylib*
 
-A small minesweeper game built in 2025 as part of university coursework containing 3 different sizes of grid.
+A small minesweeper game built in 2025 as part of university coursework with custom art, a new cryo-stabiliser ability and 3 different grids to choose from.
 
 ![Gameplay Demo](resources/ExosweeperGameplay.gif)
 
@@ -15,7 +15,7 @@ Collecting all of the ore on the map wins the game and revealing lava, causes a 
 ## Features
 - Mouse-controlled marking and revealing
 - Main menu for navigation
-- There are three different types of grid sizes to choose: 10 x 10, 15 x 15 and 20 x 20
+- Three grid sizes: 10 x 10, 15 x 15 and 20 x 20
 - Each grid is randomly generated, offering infinite grid possibilities
 - A HUD to display all relevant information
 - New cryo-stabiliser ability, where the player can freeze a lava space turning it into a regular space
@@ -43,11 +43,12 @@ Collecting all of the ore on the map wins the game and revealing lava, causes a 
 - ![raylib](https://img.shields.io/badge/raylib-000000?logo=raylib&logoColor=white)
 
 ## Credits
-- Game design and programming by Evan Jarvis
-- All pixel art drawn by Evan Jarvis
-- The menu track was used from [here](https://opengameart.org/content/har%C3%A1n)
-- The game track was used from [here](https://opengameart.org/content/continue)
-- The sound effects were used from [here](https://opengameart.org/content/512-sound-effects-8-bit-style)
+- **Game design & programming:** Evan Jarvis  
+- **Pixel art:** Evan Jarvis  
+- **Menu music:** [Harán](https://opengameart.org/content/har%C3%A1n) (OpenGameArt)  
+- **Gameplay music:** [Continue](https://opengameart.org/content/continue) (OpenGameArt)  
+- **Sound effects:** [8-bit Sound Effects Pack](https://opengameart.org/content/512-sound-effects-8-bit-style)
+
 
 
 
