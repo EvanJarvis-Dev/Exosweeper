@@ -39,8 +39,8 @@ Collecting all of the ore on the map wins the game and revealing lava, causes a 
 4. Run the Exosweeper executable
 
 ## Built With
-- ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-- ![raylib](https://img.shields.io/badge/raylib-000000?logo=raylib&logoColor=white)
+- c
+- raylib
 
 ## Credits
 - **Game design & programming:** Evan Jarvis  
@@ -48,6 +48,7 @@ Collecting all of the ore on the map wins the game and revealing lava, causes a 
 - **Menu music:** [Harán](https://opengameart.org/content/har%C3%A1n)
 - **Gameplay music:** [Continue](https://opengameart.org/content/continue)
 - **Sound effects:** [8-bit Sound Effects Pack](https://opengameart.org/content/512-sound-effects-8-bit-style)
+
 
 
 
